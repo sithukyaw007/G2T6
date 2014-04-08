@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="thrive2v2" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\sithu\\Documents\\Visual\ Studio\ 2012\\Projects\\Thrive2_\(Itr3b\)\\Thrive2\\Thrive2\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\sithu\\Documents\\Visual\ Studio\ 2012\\Projects\\Thrive2_\(Itr3b\)\\Thrive2\\Thrive2\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

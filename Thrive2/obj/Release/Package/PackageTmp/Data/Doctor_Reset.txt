@@ -1,0 +1,3 @@
+Hi David,
+
+ Rachel has been submitted her <a href="MyPatientAssignment.aspx?s=n&pname=Rachel&assignment=2"><b><u>assignment 2</u></b></a>.
